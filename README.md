@@ -144,8 +144,7 @@ We welcome contributions to enhance and expand this project. Here’s how you ca
 
 2. Clone the forked repository to your local machine:
 
-git clone https://github.com/your-username/Cognifyz-Internship-Task.git
-cd Cognifyz-Internship-Task
+https://github.com/mohit4755/l3--t2
 
 3. Create a new branch for your changes
 git checkout -b new-feature
